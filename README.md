@@ -4,6 +4,7 @@ Olá pessoal :v::blush:
 &nbsp; Eu sou um Desenvolvedor FullStack  apaixonado por tecnologia e as soluções que ela oferece :computer:
 
 <div>
+  <a href="https://github.com/Samuelloliiveira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Samuelloliiveira&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuelloliiveira&layout=compact&langs_count=7&theme=omni"/>
 </div>
