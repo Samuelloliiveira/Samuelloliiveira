@@ -1,4 +1,4 @@
-# Samuel-Oliveira
+# Samuel Oliveira
 
 Olá pessoal :v::blush:
 &nbsp; Eu sou um Desenvolvedor FullStack  apaixonado por tecnologia e as soluções que ela oferece :computer:
