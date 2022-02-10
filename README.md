@@ -11,7 +11,7 @@ Olá pessoal :v::blush:
 
 ##
 
-:mortar_board: &nbsp; No momento estou estudando de forma independente.
+:mortar_board: &nbsp; No momento estou estudando: Nodo.js, React.js, SQL
 
 ##
 
