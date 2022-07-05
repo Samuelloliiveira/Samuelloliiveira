@@ -3,7 +3,7 @@
 ## Programador Web
 - Posso te ajudar com desenvolvimento de Sites e Sistemas
 
-### Clique <a href="https://samuel-oliveira-portfolio.herokuapp.com/" target="_blank">aqui</a> para acessar o meu site, lá você vai ter acesso as minhas redes sociais, meu portfólio, informações de contato, e saber um pouco mais.
+#### Clique <a href="https://samuel-oliveira-portfolio.herokuapp.com/" target="_blank">aqui</a> para acessar o meu site, lá você vai ter acesso as minhas redes sociais, meu portfólio, informações de contato, e saber um pouco mais.
 
 <div style="display: inline_block; font-size: 15px ">
  
@@ -22,6 +22,7 @@
 - Node <br>
 - React <br>
 - SQL
+- TypeScript
 
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Samuelloliiveira&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
