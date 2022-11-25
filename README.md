@@ -3,9 +3,8 @@
 Samuel Oliveira</h1>
 
 ## Desenvolvedor Web Júnior
-- Apaixonado pelo Ecossistema Javascript 🧑‍💻
 
-- Clique <a href="https://samuel-oliveira-portfolio.herokuapp.com/" target="_blank">aqui</a> para acessar o meu site, lá você vai ter acesso as minhas redes sociais, meu portfólio, informações de contato, e saber um pouco mais.
+#### Clique <a href="https://samuel-oliveira-portfolio.herokuapp.com/" target="_blank">aqui</a> para acessar o meu site, lá você vai ter acesso as minhas redes sociais, meu portfólio, informações de contato, e saber um pouco mais.
 
 <div style="display: inline_block; font-size: 15px ">
  
@@ -18,11 +17,3 @@ Samuel Oliveira</h1>
 <img align="center" alt="Nodejs" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 <img align="center" alt="React" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
-
-##
-
-### No momento estou estudando:
-- Node <br>
-- React <br>
-- SQL
-- TypeScript
