@@ -4,7 +4,7 @@ Samuel Oliveira</h1>
 
 ## Desenvolvedor Full Stack Júnior
 
-#### Clique <a href="https://samuel-oliveira-portfolio.herokuapp.com/" target="_blank">aqui</a> para acessar o meu site, lá você vai ter acesso as minhas redes sociais, meu portfólio, informações de contato, e saber um pouco mais.
+<!-- #### Clique <a href="https://samuel-oliveira-portfolio.herokuapp.com/" target="_blank">aqui</a> para acessar o meu site, lá você vai ter acesso as minhas redes sociais, meu portfólio, informações de contato, e saber um pouco mais. -->
 
 <div style="display: inline_block; font-size: 15px ">
  
