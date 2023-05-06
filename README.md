@@ -1,21 +1,19 @@
-<h1 align="center">Olá Mundo! Meu nome é Samuel Oliveira <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-</h1>
+## Olá Mundo! Meu nome é Samuel Oliveira <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
 
-### Desenvolvedor Full Stack Júnior
+### Desenvolvedor Full Stack  👨‍💻
 
 <!-- #### Clique <a href="https://samuel-oliveira-portfolio.herokuapp.com/" target="_blank">aqui</a> para acessar o meu site, lá você vai ter acesso as minhas redes sociais, meu portfólio, informações de contato, e saber um pouco mais. -->
 
-### Minhas skills
 
-<div>
- <img align="center" alt="HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
- <img align="center" alt="CSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img align="center" alt="Javascript" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- <img align="center" alt="Typescript" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
- <img align="center" alt="Nodejs" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
- <img align="center" alt="React" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-</div>
+<div display="flex"><br>
+  <img align="center" alt="HTML" height="30" width="60" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" alt="CSS" height="30" width="65" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img align="center" alt="Js" height="30" width="60" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <img align="center" alt="Ts" height="30" width="60" src="https://img.shields.io/badge/Typescript-323330?style=for-the-badge&logo=typescript&logoColor=F7DF1E">
+ <img align="center" alt="Reactjs" height="30" width="60" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+ <img align="center" alt="React Native" height="30" width="70" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+ <img align="center" alt="Git" height="30" width="60" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 
  ##
   
