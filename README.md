@@ -9,11 +9,11 @@
   <img align="center" alt="Sam-typescript" height="40" width="50" src="https://raw.githubusercontent.com/Samuelloliiveira/Samuelloliiveira/9a7b746342b95d9e1b19fc1c62badd4f950c91cc/image/typescript_icon.svg">
   <img align="center" alt="Sam-react" height="40" width="50" src="https://raw.githubusercontent.com/Samuelloliiveira/Samuelloliiveira/765808c8a386da73d951b1d6296de92aa8645ad9/image/react_icon.svg">
   <img align="center" alt="Sam-git" height="40" width="50" src="https://raw.githubusercontent.com/Samuelloliiveira/Samuelloliiveira/9a7b746342b95d9e1b19fc1c62badd4f950c91cc/image/git_icon.svg">
-
-  <img src="https://raw.githubusercontent.com/Samuelloliiveira/Samuelloliiveira/571d5f6d1d461110248eef45d1ddcc3cd50161a0/gif/ichigo.gif" alt="GIF">
+  
+  <img align="center" height="150" width="auto"  src="https://raw.githubusercontent.com/Samuelloliiveira/Samuelloliiveira/571d5f6d1d461110248eef45d1ddcc3cd50161a0/gif/ichigo.gif" alt="GIF">
 </div>
 
-###
+##
 
 Apaixonado por programação web e mobile, estou comprometido com o constante aprimoramento e inovação tecnológica. Minha jornada começou no SENAI, onde cursei Desenvolvimento de Sistemas (não conseguir finalizar por problemas financeiros) e, apesar dos desafios enfrentados durante a pandemia, meu amor pela programação só cresceu e venho estudando de forma independente.
 
