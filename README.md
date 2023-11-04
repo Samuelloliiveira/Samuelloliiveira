@@ -3,20 +3,19 @@
 #### Desenvolvedor Full Stack 👨‍💻
 
 <div display="flex">
-  <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="Js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  <img align="center" alt="Ts" src="https://img.shields.io/badge/Typescript-323330?style=for-the-badge&logo=typescript&logoColor=F7DF1E">
-  <img align="center" alt="Reactjs" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img align="center" alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+  <img align="center" alt="Sam-html" height="40" width="50" src="https://raw.githubusercontent.com/Samuelloliiveira/Samuelloliiveira/9a7b746342b95d9e1b19fc1c62badd4f950c91cc/image/html_icon.svg">
+  <img align="center" alt="Sam-css" height="40" width="50" src="https://raw.githubusercontent.com/Samuelloliiveira/Samuelloliiveira/9a7b746342b95d9e1b19fc1c62badd4f950c91cc/image/css_icon.svg">
+  <img align="center" alt="Sam-javascript" height="40" width="50" src="https://raw.githubusercontent.com/Samuelloliiveira/Samuelloliiveira/9a7b746342b95d9e1b19fc1c62badd4f950c91cc/image/javascript_icon.svg">
+  <img align="center" alt="Sam-typescript" height="40" width="50" src="https://raw.githubusercontent.com/Samuelloliiveira/Samuelloliiveira/9a7b746342b95d9e1b19fc1c62badd4f950c91cc/image/typescript_icon.svg">
+  <img align="center" alt="Sam-react" height="40" width="50" src="https://raw.githubusercontent.com/Samuelloliiveira/Samuelloliiveira/9a7b746342b95d9e1b19fc1c62badd4f950c91cc/image/react_icon.svg">
+  <img align="center" alt="Sam-git" height="40" width="50" src="https://raw.githubusercontent.com/Samuelloliiveira/Samuelloliiveira/9a7b746342b95d9e1b19fc1c62badd4f950c91cc/image/git_icon.svg">
 </div>
 
 ###
 
 Apaixonado por programação web e mobile, estou comprometido com o constante aprimoramento e inovação tecnológica. Minha jornada começou no SENAI, onde cursei Desenvolvimento de Sistemas (não conseguir finalizar por problemas financeiros) e, apesar dos desafios enfrentados durante a pandemia, meu amor pela programação só cresceu e venho estudando de forma independente.
 
-Experiência e Conhecimento ✨
+#### Experiência e Conhecimento ✨
 
 - Desenvolvimento de aplicativos completos usando tecnologias como Node.js, React e React Native.
 - Domínio de linguagens como HTML, CSS, JavaScript e TypeScript.
