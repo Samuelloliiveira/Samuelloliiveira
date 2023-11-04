@@ -10,7 +10,7 @@
   <img align="center" alt="Sam-react" height="40" width="50" src="https://raw.githubusercontent.com/Samuelloliiveira/Samuelloliiveira/765808c8a386da73d951b1d6296de92aa8645ad9/image/react_icon.svg">
   <img align="center" alt="Sam-git" height="40" width="50" src="https://raw.githubusercontent.com/Samuelloliiveira/Samuelloliiveira/9a7b746342b95d9e1b19fc1c62badd4f950c91cc/image/git_icon.svg">
   
-  <img align="center" height="150" width="auto"  src="https://raw.githubusercontent.com/Samuelloliiveira/Samuelloliiveira/571d5f6d1d461110248eef45d1ddcc3cd50161a0/gif/ichigo.gif" alt="GIF">
+  <img align="center" height="150" width="auto"  src="https://github.com/Samuelloliiveira/Samuelloliiveira/blob/master/image/gato-digitando.gif?raw=true" alt="GIF">
 </div>
 
 ##
