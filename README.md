@@ -1,4 +1,4 @@
-### Olá, Mundo! Meu nome é <span style="color:blue;">Samuel Oliveira</span>
+## Olá, Mundo! Meu nome é Samuel Oliveira
 
 #### Desenvolvedor Full Stack 👨‍💻
 
