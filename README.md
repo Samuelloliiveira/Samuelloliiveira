@@ -22,7 +22,7 @@ Apaixonado por programação web e mobile, estou comprometido com o constante ap
 #### Experiência e Conhecimento ✨
 
 * Desenvolvimento de aplicativos completos usando tecnologias como Node.js, React e React Native.
-* Domínio de linguagens como HTML, CSS, JavaScript e TypeScript.
+* Domínio em HTML, CSS, JavaScript e TypeScript.
 * Uso de Prisma ORM para interagir com bancos de dados.
 * Estilização eficiente com Tailwind CSS.
 * Manipulação de datas com Day.js.
